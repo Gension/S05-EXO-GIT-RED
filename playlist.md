@@ -8,8 +8,7 @@
 |[James Brown - People Get Up And Drive Your Funky Soul](https://www.youtube.com/watch?v=h0chqsOCQDI)| Soul Funk |
 |[Mark Ronson  ft. Bruno Mars - Uptown Funk](https://www.youtube.com/watch?v=OPf0YbXqDm0)| Pop Funk |
 <<<<<<< HEAD
-|[Earth, Wind & Fire - September](https://www.youtube.com/watch?v=Gs069dndIYk)| Disco |
-=======
+
 |[Earth, Wind & Fire - September](https://www.youtube.com/watch?v=Gs069dndIYk)| Funk |
 >>>>>>> origin/michel
 
@@ -44,3 +43,5 @@
 |[Fatboy Slim - Praise You](https://www.youtube.com/watch?v=ruAi4VBoBSM) | UK Big Beat |
 |[Hoodboi - Glide feat. Tkay Maidza](https://www.youtube.com/watch?v=Ypy9rw0Mhy8) | Deep House |
 |[C2C - Happy](https://www.youtube.com/watch?v=tvY7Nw1i6Kw) | Breakbeat |
+
+## Du classique !
